@@ -26,7 +26,6 @@ ww	っ	w
 xx	っ	x
 yy	っ	y
 zz	っ	z
-www	w	ww
 a	あ
 ba	ば
 bd	べん
