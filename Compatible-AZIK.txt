@@ -80,6 +80,10 @@ dhi	でぃ
 dhu	でゅ
 dhe	でぇ
 dho	でょ
+dhk	でぃん
+dhj	でゅん
+dwu	どぅ
+dwj	どぅん
 di	ぢ
 dj	づん
 dk	ぢん
@@ -466,6 +470,9 @@ thi	てぃ
 thu	てゅ
 the	てぇ
 tho	てょ
+twu	とぅ
+twj	とぅん
+thk	てぃん
 ti	ち
 tj	つん
 tk	ちん
