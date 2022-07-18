@@ -78,7 +78,11 @@ dcu	どぅ
 ddd	でん
 de	で
 df	で
-dh	づう
+dhh	づう
+dhi	でぃ
+dhu	でゅ
+dhe	でぇ
+dho	でょ
 di	ぢ
 dj	づん
 dk	ぢん
