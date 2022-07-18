@@ -95,7 +95,7 @@ dq	だい
 ds	です
 dt	だち
 du	づ
-dw	でい
+dww	でい
 dya	ぢゃ
 dyd	ぢぇん
 dye	ぢぇ
@@ -478,7 +478,7 @@ tp	とう
 tq	たい
 tr	たら
 tu	つ
-tw	てい
+tww	てい
 tya	ちゃ
 tyd	ちぇん
 tye	ちぇ
